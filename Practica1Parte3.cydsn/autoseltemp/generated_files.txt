@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="us-ascii"?>
+
+<fileSet version="1" anchorPath="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp" xsi:schemaLocation="http://cypress.com/xsd/cypathdictionary cypathdictionary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cypathdictionary">
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyfitter_cfg.h" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyfitter_cfg.c" value="SOURCE_C;DP8051;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\config.hex" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\protect.hex" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\eeprom.hex" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cydevice.h" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cydevicekeil.inc" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cydevice_trm.h" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cydevicekeil_trm.inc" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyfitterkeil.inc" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyfitter.h" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cydisabledsheets.h" value="HEADER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\Clock_1.c" value="SOURCE_C;DP8051;;;;Clock_1" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\Clock_1.h" value="HEADER;;;;;Clock_1" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\generadorPulsosPWM.c" value="SOURCE_C;DP8051;;;;generadorPulsosPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\generadorPulsosPWM.h" value="HEADER;;;;;generadorPulsosPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\generadorPulsosPWM_PM.c" value="SOURCE_C;DP8051;;;;generadorPulsosPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledHardwarePWM.c" value="SOURCE_C;DP8051;;;;ledHardwarePWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledHardwarePWM.h" value="HEADER;;;;;ledHardwarePWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledHardwarePWM_aliases.h" value="HEADER;;;;;ledHardwarePWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\interrupcionDelPWM.c" value="SOURCE_C;DP8051;;;;interrupcionDelPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\interrupcionDelPWM.h" value="HEADER;;;;;interrupcionDelPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledSoftwareInterrupcionPWM.c" value="SOURCE_C;DP8051;;;;ledSoftwareInterrupcionPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledSoftwareInterrupcionPWM.h" value="HEADER;;;;;ledSoftwareInterrupcionPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\ledSoftwareInterrupcionPWM_aliases.h" value="HEADER;;;;;ledSoftwareInterrupcionPWM" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyBootAsmKeil.a51" value="SOURCE_ASM;DP8051;;c659702b-5f69-4783-8160-eb7977f1c97a;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyDmac.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyDmac.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyFlash.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyFlash.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyLib.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CyLib.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cymem.a51" value="SOURCE_ASM;DP8051;;c659702b-5f69-4783-8160-eb7977f1c97a;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cypins.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyPm.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyPm.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CySpc.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\CySpc.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cytypes.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cyutils.c" value="SOURCE_C;DP8051;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\KeilStart.a51" value="SOURCE_ASM;DP8051;;c659702b-5f69-4783-8160-eb7977f1c97a;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\PSoC3_8051.h" value="HEADER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\PSoC3_8051.inc" value="OTHER;;;;;cy_boot" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\project.h" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cycodeshareimport.ld" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cycodeshareexport.ld" value="OTHER;;;;;" />
+  <file name="C:\Practicas\LedJoselito\Design01.cydsn\autoseltemp\cycodeshareimport.scat" value="OTHER;;;;;" />
+</fileSet>
