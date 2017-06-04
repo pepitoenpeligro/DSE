@@ -1,0 +1,144 @@
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/Clock_1.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Clock_1.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Clock_1.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Clock_1.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Clock_1.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/Cm3Start.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Cm3Start.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/cyapicallbacks.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/cyapicallbacks.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/CyDmac.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/CyFlash.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/CyLib.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/CySpc.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/cyPm.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/cyapicallbacks.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/cyfitter_cfg.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/cyapicallbacks.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/cymetadata.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cymetadata.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/cyutils.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyutils.c 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyutils.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/dec.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec_aliases.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec_aliases.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/inc.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc_aliases.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc_aliases.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/pantallaLCD.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/pantallaLCD_LCDPort.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort_aliases.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort_aliases.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/pantallaLCD_PM.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_PM.c 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_PM.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/registro.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/registro2.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro2.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro2.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro2.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro2.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/registro_PM.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro_PM.c 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro_PM.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/siguiente.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente.c C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente_aliases.h 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente.c : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente_aliases.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/CortexM3/ARM_GCC_493/Debug/main.o : C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/project.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/Clock_1.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CyLib.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/CySpc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyPm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cypins.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cytypes.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/dec_aliases.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/inc_aliases.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/pantallaLCD_LCDPort_aliases.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/registro2.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/siguiente_aliases.h C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/main.c 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Practicas/PracticasDSECompleto/Practica2Parte4.cydsn/main.c : 
+

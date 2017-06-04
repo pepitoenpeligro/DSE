@@ -1,0 +1,1215 @@
+Archive member included because of file (symbol)
+
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o (cyfitter_cfg)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                              .\CortexM3\ARM_GCC_493\Debug\main.o (convertidorAnalogicoDigital_Start)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (convertidorAnalogicoDigital_ISR1)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                              .\CortexM3\ARM_GCC_493\Debug\main.o (pantallaLCD_PrintString)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (convertidorAnalogicoDigital_AMux_Select)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (convertidorAnalogicoDigital_Ext_CP_Clk_SetModeRegister)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (convertidorAnalogicoDigital_theACLK_SetModeRegister)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o (CyHalt)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o) (CyPmReadStatus)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o) (CyDelayCycles)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o) (CyFlash_SetWaitCycles)
+.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o) (CySpcStart)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (__aeabi_f2d)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (__aeabi_dcmpgt)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (__aeabi_ui2f)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (__aeabi_fmul)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o) (__aeabi_f2uiz)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o (__errno)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+                              .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o) (memcpy)
+c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+convertidorAnalogicoDigital_Offset
+                    0x4               .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+convertidorAnalogicoDigital_CountsPerVolt
+                    0x4               .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+dieTemperature      0x2               .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .data          0x00000000        0x4 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .text._exit    0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .text._sbrk    0x00000000       0x30 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.SetAnalogRoutingPumps
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_Stop
+                0x00000000       0xe4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetBufferGain
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetCoherency
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetGCOR
+                0x00000000       0x78 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_ReadGCOR
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_StopConvert
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_GetResult8
+                0x00000000       0x48 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_GetResult16
+                0x00000000       0x50 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetOffset
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetGain
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_CountsTo_Volts
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_CountsTo_uVolts
+                0x00000000       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SelectConfiguration
+                0x00000000       0x64 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_Read8
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_Read16
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_Read32
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_PutChar
+                0x00000000        0x8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_Stop
+                0x00000000       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_PrintInt8
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_PrintInt16
+                0x00000000       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_PrintInt32
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .rodata        0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .text.convertidorAnalogicoDigital_AMux_FastSelect
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_Start
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_Stop
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_StopBlock
+                0x00000000       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_StandbyPower
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_ClearModeRegister
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_GetModeRegister
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_SetSourceRegister
+                0x00000000       0x5c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_Start
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_Stop
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_StopBlock
+                0x00000000       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_StandbyPower
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_ClearModeRegister
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_GetModeRegister
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_SetSourceRegister
+                0x00000000       0x5c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_SetPhaseRegister
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text.convertidorAnalogicoDigital_theACLK_GetPhaseRegister
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .bss           0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyUSB_PowerOnCheck
+                0x00000000       0x48 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyBusClk_Internal_SetDivider
+                0x00000000       0x48 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyPLL_OUT_Stop
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_Stop
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_EnableDoubler
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_DisableDoubler
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyMasterClk_SetSource
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyMasterClk_SetDivider
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyBusClk_SetDivider
+                0x00000000       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyUsbClk_SetSource
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Start1K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Stop1K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Start100K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Stop100K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyPLL_OUT_Start
+                0x00000000       0x78 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_Start
+                0x00000000       0x60 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Enable33K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_Disable33K
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_SetSource
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyILO_SetPowerMode
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_32KHZ_Stop
+                0x00000000       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_32KHZ_ReadStatus
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_Start
+                0x00000000       0xac .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_Stop
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_EnableErrStatus
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_DisableErrStatus
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_ReadStatus
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_EnableFaultRecovery
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_DisableFaultRecovery
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_SetStartup
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_SetFbVoltage
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_SetWdVoltage
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyPLL_OUT_SetPQ
+                0x00000000       0x60 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyPLL_OUT_SetSource
+                0x00000000       0x34 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_SetTrimValue
+                0x00000000       0xcc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_SetFreq
+                0x00000000       0xf4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIMO_SetSource
+                0x00000000       0x58 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySoftwareReset
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_32KHZ_SetPowerMode
+                0x00000000       0x84 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyXTAL_32KHZ_Start
+                0x00000000       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyDelayFreq
+                0x00000000       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyWdtStart
+                0x00000000       0x40 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyWdtClear
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdStickyStatus
+                0x00000000       0x2c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdLvDigitEnable
+                0x00000000       0x84 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdLvAnalogEnable
+                0x00000000       0x80 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdLvDigitDisable
+                0x00000000       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdLvAnalogDisable
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdHvAnalogEnable
+                0x00000000       0x54 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdHvAnalogDisable
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyVdRealTimeStatus
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyDisableInts
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyEnableInts
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyFlushCache
+                0x00000000       0x44 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIntSetSysVector
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIntGetSysVector
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIntGetVector
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIntGetPriority
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyIntGetState
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickStop
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickEnableInterrupt
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickEnable
+                0x00000000       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickDisableInterrupt
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickSetReload
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickGetReload
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickGetValue
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickSetClockSource
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickGetClockSource
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickGetCountFlag
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickServiceCallbacks
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickClear
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickInit
+                0x00000000       0x58 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickStart
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickSetCallback
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CySysTickGetCallback
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text.CyGetUniqueId
+                0x00000000       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .bss           0x00000000       0x44 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibSlpSaveSet
+                0x00000000      0x1dc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibSlpRestore
+                0x00000000       0xd4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHviLviSaveDisable
+                0x00000000       0xa0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibSaveSet
+                0x00000000       0x8c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHviLviRestore
+                0x00000000       0x48 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibRestore
+                0x00000000       0x58 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmSaveClocks
+                0x00000000      0x218 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmRestoreClocks
+                0x00000000      0x24c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmAltAct
+                0x00000000       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmSleep
+                0x00000000       0xf4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibernateEx
+                0x00000000       0xf4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmHibernate
+                0x00000000        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmReadStatus
+                0x00000000       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmCtwSetInterval
+                0x00000000       0x5c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmOppsSet
+                0x00000000       0x2c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .text.CyPmFtwSetInterval
+                0x00000000       0x5c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .rodata        0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .bss           0x00000000        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyFlashGetSpcAlgorithm
+                0x00000000       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CySetTempInt
+                0x00000000       0x60 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyFlash_Start
+                0x00000000       0x54 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyFlash_Stop
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CySetTemp
+                0x00000000       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CySetFlashEEBuffer
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyWriteRowFull
+                0x00000000       0xf8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyWriteRowData
+                0x00000000       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyFlash_SetWaitCycles
+                0x00000000       0x7c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyEEPROM_Start
+                0x00000000       0x54 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyEEPROM_Stop
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyEEPROM_ReadReserve
+                0x00000000       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text.CyEEPROM_ReadRelease
+                0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ COMMON         0x00000000        0x2 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .text          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .data          0x00000000        0x0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .bss           0x00000000        0x8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcStart
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcStop
+                0x00000000       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcReadData
+                0x00000000       0x34 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcLoadMultiByte
+                0x00000000       0x78 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcLoadRow
+                0x00000000       0x54 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcLoadRowFull
+                0x00000000       0x80 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcWriteRow
+                0x00000000       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcEraseSector
+                0x00000000       0x3c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcGetTemp
+                0x00000000       0x3c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcLock
+                0x00000000       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcUnlock
+                0x00000000       0x38 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text.CySpcGetAlgorithm
+                0x00000000       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .text          0x00000000      0x370 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x110 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000      0x21c c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0x40 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00040000         xr
+ram              0x1fff8000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+START GROUP
+LOAD .\CortexM3\ARM_GCC_493\Debug\main.o
+LOAD .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+LOAD .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+LOAD .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a
+LOAD C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_493\Debug\CyComponentLibrary.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+                0x00000000                CY_APPL_ORIGIN = 0x0
+                0x00000100                CY_FLASH_ROW_SIZE = 0x100
+                0x00000020                CY_ECC_ROW_SIZE = 0x20
+                0x00000000                CY_EE_IN_BTLDR = 0x0
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000800                CY_EE_SIZE = 0x800
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000001                CY_APPL_MAX = 0x1
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                0x1fff81c8                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20008000                PROVIDE (__cy_stack, (ORIGIN (ram) + 0x10000))
+                0x20007800                PROVIDE (__cy_heap_end, (__cy_stack - 0x800))
+
+.cybootloader   0x00000000        0x0
+ *(.cybootloader)
+                0x00000000                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x0001ff00                appl2_start = (appl1_start + ALIGN ((((0x40000 - appl1_start) - (0x2 * CY_FLASH_ROW_SIZE)) / 0x2), CY_FLASH_ROW_SIZE))
+                0x00000000                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000000                ecc_offset = ((appl_start / CY_FLASH_ROW_SIZE) * CY_ECC_ROW_SIZE)
+                0x00000000                ee_offset = (CY_APPL_LOADABLE && ! (CY_EE_IN_BTLDR))?((CY_EE_SIZE / CY_APPL_MAX) * (CY_APPL_NUM - 0x1)):0x0
+                0x00000800                ee_size = (CY_APPL_LOADABLE && ! (CY_EE_IN_BTLDR))?(CY_EE_SIZE / CY_APPL_MAX):CY_EE_SIZE
+                0x00000000                PROVIDE (CY_ECC_OFFSET, ecc_offset)
+
+.text           0x00000000     0x11d6
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x00000000                RomVectors
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x00000010                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00000010       0x18 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x00000010                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.dma_init)
+                0x00000001                ASSERT ((((appl_start + .) <= 0x10000) || 0x1), DMA Init must be within the first 64k of flash)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00000028       0x5c c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .text.main     0x00000084       0x68 .\CortexM3\ARM_GCC_493\Debug\main.o
+                0x00000084                main
+ .text.IntDefaultHandler
+                0x000000ec       0x10 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x000000ec                IntDefaultHandler
+ .text.Start_c  0x000000fc       0x4c .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x000000fc                Start_c
+ .text.initialize_psoc
+                0x00000148       0x74 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x00000148                initialize_psoc
+ .text.CyClockStartupError
+                0x000001bc        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.cfg_write_bytes32
+                0x000001c0       0x34 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.AnalogSetDefault
+                0x000001f4       0x40 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.CYMEMZERO
+                0x00000234        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.CYCONFIGCPY
+                0x00000240        0x8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.ClockSetup
+                0x00000248       0xe4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .text.convertidorAnalogicoDigital_AMux_Set
+                0x0000032c       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                0x0000032c                convertidorAnalogicoDigital_AMux_Set
+ .text.convertidorAnalogicoDigital_AMux_Unset
+                0x00000348       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                0x00000348                convertidorAnalogicoDigital_AMux_Unset
+ .text.cyfitter_cfg
+                0x00000364       0xe0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                0x00000364                cyfitter_cfg
+ .text.convertidorAnalogicoDigital_GainCompensation
+                0x00000444       0xd0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_SetDSMRef0Reg
+                0x00000514       0x4c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_InitConfig
+                0x00000560      0x32c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .text.convertidorAnalogicoDigital_Init
+                0x0000088c      0x108 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x0000088c                convertidorAnalogicoDigital_Init
+ .text.convertidorAnalogicoDigital_Enable
+                0x00000994       0xd8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000994                convertidorAnalogicoDigital_Enable
+ .text.convertidorAnalogicoDigital_Start
+                0x00000a6c       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000a6c                convertidorAnalogicoDigital_Start
+ .text.convertidorAnalogicoDigital_StartConvert
+                0x00000a94       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000a94                convertidorAnalogicoDigital_StartConvert
+ .text.convertidorAnalogicoDigital_IsEndConversion
+                0x00000aa4       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000aa4                convertidorAnalogicoDigital_IsEndConversion
+ .text.convertidorAnalogicoDigital_GetResult32
+                0x00000ad4       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000ad4                convertidorAnalogicoDigital_GetResult32
+ .text.convertidorAnalogicoDigital_CountsTo_mVolts
+                0x00000b40       0x24 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x00000b40                convertidorAnalogicoDigital_CountsTo_mVolts
+ .text.convertidorAnalogicoDigital_ISR1
+                0x00000b64        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                0x00000b64                convertidorAnalogicoDigital_ISR1
+ .text.convertidorAnalogicoDigital_ISR2
+                0x00000b68        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                0x00000b68                convertidorAnalogicoDigital_ISR2
+ .text.convertidorAnalogicoDigital_ISR3
+                0x00000b6c        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                0x00000b6c                convertidorAnalogicoDigital_ISR3
+ .text.convertidorAnalogicoDigital_ISR4
+                0x00000b70        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                0x00000b70                convertidorAnalogicoDigital_ISR4
+ .text.pantallaLCD_WrCntrlNib
+                0x00000b74       0x34 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_WrDatNib
+                0x00000ba8       0x44 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .text.pantallaLCD_IsReady
+                0x00000bec       0xe4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000bec                pantallaLCD_IsReady
+ .text.pantallaLCD_WriteData
+                0x00000cd0       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000cd0                pantallaLCD_WriteData
+ .text.pantallaLCD_PrintString
+                0x00000ce8       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000ce8                pantallaLCD_PrintString
+ .text.pantallaLCD_WriteControl
+                0x00000d04       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000d04                pantallaLCD_WriteControl
+ .text.pantallaLCD_Init
+                0x00000d1c       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000d1c                pantallaLCD_Init
+ .text.pantallaLCD_Enable
+                0x00000d88       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000d88                pantallaLCD_Enable
+ .text.pantallaLCD_Start
+                0x00000d9c       0x1c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000d9c                pantallaLCD_Start
+ .text.pantallaLCD_Position
+                0x00000db8       0x3c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000db8                pantallaLCD_Position
+ .text.pantallaLCD_PrintU32Number
+                0x00000df4       0x60 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x00000df4                pantallaLCD_PrintU32Number
+ .text.convertidorAnalogicoDigital_AMux_Start
+                0x00000e54       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+                0x00000e54                convertidorAnalogicoDigital_AMux_Start
+ .text.convertidorAnalogicoDigital_AMux_Select
+                0x00000e74       0x18 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+                0x00000e74                convertidorAnalogicoDigital_AMux_Select
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_GetDividerRegister
+                0x00000e8c        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                0x00000e8c                convertidorAnalogicoDigital_Ext_CP_Clk_GetDividerRegister
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_SetModeRegister
+                0x00000e98       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                0x00000e98                convertidorAnalogicoDigital_Ext_CP_Clk_SetModeRegister
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_GetSourceRegister
+                0x00000eac       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                0x00000eac                convertidorAnalogicoDigital_Ext_CP_Clk_GetSourceRegister
+ .text.convertidorAnalogicoDigital_Ext_CP_Clk_SetDividerRegister
+                0x00000ebc       0xd8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                0x00000ebc                convertidorAnalogicoDigital_Ext_CP_Clk_SetDividerRegister
+ .text.convertidorAnalogicoDigital_theACLK_GetDividerRegister
+                0x00000f94        0xc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                0x00000f94                convertidorAnalogicoDigital_theACLK_GetDividerRegister
+ .text.convertidorAnalogicoDigital_theACLK_SetModeRegister
+                0x00000fa0       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                0x00000fa0                convertidorAnalogicoDigital_theACLK_SetModeRegister
+ .text.convertidorAnalogicoDigital_theACLK_GetSourceRegister
+                0x00000fb4       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                0x00000fb4                convertidorAnalogicoDigital_theACLK_GetSourceRegister
+ .text.convertidorAnalogicoDigital_theACLK_SetDividerRegister
+                0x00000fc4       0xd8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                0x00000fc4                convertidorAnalogicoDigital_theACLK_SetDividerRegister
+ .text.CyHalt   0x0000109c        0x4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x0000109c                CyHalt
+ .text.CyDelay  0x000010a0       0x2c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x000010a0                CyDelay
+ .text.CyDelayUs
+                0x000010cc       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x000010cc                CyDelayUs
+ .text.CyIntSetVector
+                0x000010e0       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x000010e0                CyIntSetVector
+ .text.CyIntSetPriority
+                0x00001108       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x00001108                CyIntSetPriority
+ .text          0x00001138       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+                0x00001138                CyDelayCycles
+                0x00001148                CyEnterCriticalSection
+                0x00001150                CyExitCriticalSection
+ .text.__errno  0x00001158        0xc c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                0x00001158                __errno
+ .text.__libc_init_array
+                0x00001164       0x4c c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+                0x00001164                __libc_init_array
+ .text.memcpy   0x000011b0       0x16 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+                0x000011b0                memcpy
+ .text.memset   0x000011c6       0x10 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+                0x000011c6                memset
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x000011d8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000011d8        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x000011d8        0x4
+ *(.eh_frame)
+ .eh_frame      0x000011d8        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .eh_frame      0x000011d8        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+                0x000011dc                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000011dc                __exidx_end = .
+
+.rodata         0x000011dc       0x94
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x000011dc       0x18 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .rodata        0x000011f4       0x44 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                0x000011f4                convertidorAnalogicoDigital_AMux__addrTable
+                0x000011fc                convertidorAnalogicoDigital_AMux__maskTable
+ .rodata.str1.1
+                0x00001238        0x2 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                0x0000123c                . = ALIGN (0x4)
+ *fill*         0x0000123a        0x2 
+ *(.init)
+ .init          0x0000123c        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+                0x0000123c                _init
+ .init          0x00001240        0x8 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+                0x00001248                . = ALIGN (0x4)
+                0x00001248                __preinit_array_start = .
+ *(.preinit_array)
+                0x00001248                __preinit_array_end = .
+                0x00001248                . = ALIGN (0x4)
+                0x00001248                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00001248        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .init_array    0x0000124c        0x4 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x00001250                __init_array_end = .
+                0x00001250                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00001250        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+                0x00001250                _fini
+ .fini          0x00001254        0x8 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+                0x0000125c                . = ALIGN (0x4)
+                0x0000125c                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x0000125c        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00001260                __fini_array_end = .
+                0x00001260                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00001260                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00001260                . = ALIGN (0x4)
+                0x00001260                __cy_regions = .
+                0x00001260        0x4 LONG 0x1270 __cy_region_init_ram
+                0x00001264        0x4 LONG 0x1fff8108 __cy_region_start_data
+                0x00001268        0x4 LONG 0x80 __cy_region_init_size_ram
+                0x0000126c        0x4 LONG 0x40 __cy_region_zero_size_ram
+                0x00001270                __cy_regions_end = .
+                0x00001270                . = ALIGN (0x8)
+                0x00001270                _etext = .
+
+.cy_checksum_exclude
+                0x00001270        0x0
+ *(.cy_checksum_exclude)
+
+.ramvectors     0x1fff8000      0x100
+                0x1fff8000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x1fff8000      0x100 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                0x1fff8000                CyRamVectors
+
+.noinit         0x1fff8100        0x5
+ *(.noinit)
+ .noinit        0x1fff8100        0x4 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .noinit        0x1fff8104        0x1 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x1fff8104                CyResetStatus
+
+.data           0x1fff8108       0x80 load address 0x00001270
+                0x1fff8108                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x1fff8108        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .jcr           0x1fff8108        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x1fff810c        0x1 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x1fff810c                convertidorAnalogicoDigital_Config
+ .data          0x1fff810d        0x1 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ *fill*         0x1fff810e        0x2 
+ .data          0x1fff8110       0x10 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                0x1fff8110                cydelay_32k_ms
+                0x1fff8114                cydelay_freq_khz
+                0x1fff8118                cydelay_freq_mhz
+                0x1fff811c                cydelay_freq_hz
+ .data.impure_data
+                0x1fff8120       0x60 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x1fff8180        0x4 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                0x1fff8180                _impure_ptr
+                0x1fff8188                . = ALIGN (0x8)
+ *fill*         0x1fff8184        0x4 
+ *(.ram)
+                0x1fff8188                _edata = .
+
+.igot.plt       0x1fff8188        0x0 load address 0x000012f0
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.bss            0x1fff8188       0x40 load address 0x000012f0
+                0x1fff8188                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x1fff8188       0x1c c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .bss           0x1fff81a4       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x1fff81b4                convertidorAnalogicoDigital_stopConversion
+                0x1fff81b5                convertidorAnalogicoDigital_convDone
+                0x1fff81b6                convertidorAnalogicoDigital_initVar
+                0x1fff81b7                convertidorAnalogicoDigital_started
+ .bss           0x1fff81b8        0x2 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                0x1fff81b8                pantallaLCD_enableState
+                0x1fff81b9                pantallaLCD_initVar
+ *(COMMON)
+ *fill*         0x1fff81ba        0x2 
+ COMMON         0x1fff81bc        0x8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                0x1fff81bc                convertidorAnalogicoDigital_Offset
+                0x1fff81c0                convertidorAnalogicoDigital_CountsPerVolt
+                0x1fff81c8                . = ALIGN (0x8)
+ *fill*         0x1fff81c4        0x4 
+ *(.ram.b)
+                0x1fff81c8                _end = .
+                0x1fff81c8                __end = .
+                0x1fff81c8                PROVIDE (end, .)
+                0x1fff81c8                PROVIDE (__bss_end__, .)
+                0x00001270                __cy_region_init_ram = LOADADDR (.data)
+                0x00000080                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x00000040                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x1fff81c8       0x80 load address 0x000012f0
+                0x1fff81c8                . = _end
+                0x1fff8248                . = (. + 0x80)
+ *fill*         0x1fff81c8       0x80 
+                0x1fff8248                __cy_heap_limit = .
+
+.stack          0x20007800      0x800
+                0x20007800                __cy_stack_limit = .
+                0x20008000                . = (. + 0x800)
+ *fill*         0x20007800      0x800 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+
+.cyloadermeta
+ *(.cyloadermeta)
+
+.cyloadablemeta
+ *(.cyloadablemeta)
+
+.cyconfigecc    0x80000000       0x78
+ *(.cyconfigecc)
+ .cyconfigecc   0x80000000       0x78 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                0x80000000                cy_meta_configecc
+
+.cycustnvl      0x90000000        0x4
+ *(.cycustnvl)
+ .cycustnvl     0x90000000        0x4 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                0x90000000                cy_meta_custnvl
+
+.cywolatch      0x90100000        0x4
+ *(.cywolatch)
+ .cywolatch     0x90100000        0x4 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                0x90100000                cy_meta_wonvl
+
+.cyeeprom       0x90200000        0x0
+ *(.cyeeprom)
+                0x00000001                ASSERT ((. <= ((0x90200000 + ee_offset) + ee_size)), .cyeeprom data will not fit in EEPROM)
+
+.cyflashprotect
+                0x90400000      0x100
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000      0x100 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                0x90500000                cy_metadata
+
+.rel.dyn        0x000012f0        0x0 load address 0x9050000c
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x810
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_aranges
+                0x00000020       0x18 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .debug_aranges
+                0x00000038       0x48 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_aranges
+                0x00000080       0x68 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_aranges
+                0x000000e8       0xe8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_aranges
+                0x000001d0       0x38 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_aranges
+                0x00000208       0x98 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_aranges
+                0x000002a0       0x30 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_aranges
+                0x000002d0       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_aranges
+                0x00000340       0x80 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_aranges
+                0x000003c0      0x2a0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_aranges
+                0x00000660       0x98 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_aranges
+                0x000006f8       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x00000718       0x80 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_aranges
+                0x00000798       0x78 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x5170
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x2d4 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_info    0x000002d4      0x13a .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .debug_info    0x0000040e      0x3b3 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_info    0x000007c1      0x575 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_info    0x00000d36      0xc46 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_info    0x0000197c       0xcc .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_info    0x00001a48      0x716 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_info    0x0000215e      0x16d .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_info    0x000022cb      0x283 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_info    0x0000254e      0x2c4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_info    0x00002812     0x1385 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_info    0x00003b97      0xa57 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_info    0x000045ee       0x90 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .debug_info    0x0000467e      0x608 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_info    0x00004c86      0x4ea .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_abbrev   0x00000000     0x14e8
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x12a .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_abbrev  0x0000012a       0x5d .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .debug_abbrev  0x00000187      0x1f7 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_abbrev  0x0000037e      0x210 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_abbrev  0x0000058e      0x23d .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_abbrev  0x000007cb       0x42 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_abbrev  0x0000080d      0x171 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_abbrev  0x0000097e       0xcb .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_abbrev  0x00000a49      0x139 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_abbrev  0x00000b82      0x121 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_abbrev  0x00000ca3      0x296 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_abbrev  0x00000f39      0x1ed .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_abbrev  0x00001126       0x14 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x0000113a      0x1ed .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_abbrev  0x00001327      0x1c1 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_line     0x00000000     0x2143
+ *(.debug_line)
+ .debug_line    0x00000000      0x1d3 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_line    0x000001d3       0x51 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .debug_line    0x00000224      0x24f .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_line    0x00000473      0x207 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_line    0x0000067a      0x439 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_line    0x00000ab3       0x98 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_line    0x00000b4b      0x1e4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_line    0x00000d2f       0xc4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_line    0x00000df3      0x195 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_line    0x00000f88      0x1b5 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_line    0x0000113d      0x816 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_line    0x00001953      0x364 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_line    0x00001cb7       0x66 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .debug_line    0x00001d1d      0x1ea .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_line    0x00001f07      0x23c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_frame    0x00000000     0x15a4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_frame   0x0000002c       0xb8 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_frame   0x000000e4      0x104 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_frame   0x000001e8      0x284 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_frame   0x0000046c       0x50 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_frame   0x000004bc      0x1e4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_frame   0x000006a0       0x64 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_frame   0x00000704       0xe0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_frame   0x000007e4      0x100 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_frame   0x000008e4      0x738 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_frame   0x0000101c      0x1f8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_frame   0x00001214      0x174 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_frame   0x00001388      0x160 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .debug_frame   0x000014e8       0x20 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00001508       0x28 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00001530       0x2c c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000155c       0x28 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00001584       0x20 c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+
+.debug_str      0x00000000     0x22f0
+ *(.debug_str)
+ .debug_str     0x00000000      0x2c1 .\CortexM3\ARM_GCC_493\Debug\main.o
+                                0x30e (size before relaxing)
+ .debug_str     0x000002c1       0x75 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+                                0x1ea (size before relaxing)
+ .debug_str     0x00000336      0x163 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+                                0x2fe (size before relaxing)
+ .debug_str     0x00000499      0x200 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+                                0x3af (size before relaxing)
+ .debug_str     0x00000699      0x6ea .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+                                0x9a2 (size before relaxing)
+ .debug_str     0x00000d83       0xbd .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x00000e40      0x19e .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+                                0x3bf (size before relaxing)
+ .debug_str     0x00000fde       0xbf .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+                                0x2a7 (size before relaxing)
+ .debug_str     0x0000109d      0x263 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+                                0x462 (size before relaxing)
+ .debug_str     0x00001300      0x26f .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+                                0x4b1 (size before relaxing)
+ .debug_str     0x0000156f      0x7e0 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+                                0xa3b (size before relaxing)
+ .debug_str     0x00001d4f      0x359 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+                                0x71b (size before relaxing)
+ .debug_str     0x000020a8      0x19c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+                                0x395 (size before relaxing)
+ .debug_str     0x00002244       0xac .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+                                0x31e (size before relaxing)
+
+.debug_loc      0x00000000     0x25c0
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x144 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_loc     0x00000144      0x219 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_loc     0x0000035d      0x676 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_loc     0x000009d3      0x3c6 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_loc     0x00000d99       0x6c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_loc     0x00000e05      0x12c .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_loc     0x00000f31      0x14d .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_loc     0x0000107e      0xa11 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_loc     0x00001a8f      0x1e4 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_loc     0x00001c73      0x300 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_loc     0x00001f73      0x64d .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000      0x708
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .debug_ranges  0x00000010       0x38 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .debug_ranges  0x00000048       0x58 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .debug_ranges  0x000000a0       0xd8 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .debug_ranges  0x00000178       0x28 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .debug_ranges  0x000001a0       0x88 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .debug_ranges  0x00000228       0x20 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .debug_ranges  0x00000248       0x60 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .debug_ranges  0x000002a8       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .debug_ranges  0x00000318      0x290 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .debug_ranges  0x000005a8       0x88 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .debug_ranges  0x00000630       0x70 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .debug_ranges  0x000006a0       0x68 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 .\CortexM3\ARM_GCC_493\Debug\main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .comment       0x00000000       0x71 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x33 .\CortexM3\ARM_GCC_493\Debug\main.o
+ .ARM.attributes
+                0x00000098       0x33 .\CortexM3\ARM_GCC_493\Debug\cymetadata.o
+ .ARM.attributes
+                0x000000cb       0x33 .\CortexM3\ARM_GCC_493\Debug\Cm3Start.o
+ .ARM.attributes
+                0x000000fe       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyfitter_cfg.o)
+ .ARM.attributes
+                0x00000131       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital.o)
+ .ARM.attributes
+                0x00000164       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_INT.o)
+ .ARM.attributes
+                0x00000197       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(pantallaLCD.o)
+ .ARM.attributes
+                0x000001ca       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_AMux.o)
+ .ARM.attributes
+                0x000001fd       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_Ext_CP_Clk.o)
+ .ARM.attributes
+                0x00000230       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(convertidorAnalogicoDigital_theACLK.o)
+ .ARM.attributes
+                0x00000263       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyLib.o)
+ .ARM.attributes
+                0x00000296       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(cyPm.o)
+ .ARM.attributes
+                0x000002c9       0x21 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x000002ea       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CyFlash.o)
+ .ARM.attributes
+                0x0000031d       0x33 .\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.a(CySpc.o)
+ .ARM.attributes
+                0x00000350       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000036d       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000038a       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000003a7       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000003c4       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x000003e1       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000040e       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000043b       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000468       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000495       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004c2       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004ef       0x2d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x0000051c       0x1d c:/program files (x86)/cypress/psoc creator/4.0/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(.\CortexM3\ARM_GCC_493\Debug\Practica4Parte1Voltimetro.elf elf32-littlearm)

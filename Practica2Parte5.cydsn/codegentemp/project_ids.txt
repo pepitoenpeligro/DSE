@@ -1,0 +1,9 @@
+C:\Practicas\PracticasDSECompleto\Practica1Parte3.cydsn\Practica1Parte3.cyprj|0e008541-6f47-4bc7-8574-a88723b809c4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|971f75bf-7a22-4f62-bdcc-a508deda064b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ebd77906-970e-423c-8edd-1a0b1b15a758
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|83f9cf80-75ad-4cf3-837f-fd2afa229948
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|71e8f338-156d-4527-8446-b76e3001dded
+C:\Practicas\PracticasDSECompleto\Practica2Parte1y2.cydsn\Practica2Parte1y2.cyprj|77b7b8cd-3404-4e91-85ad-5f62e182ccb5
+C:\Practicas\PracticasDSECompleto\Practica2Parte3.cydsn\Practica2Parte3.cyprj|68637e8d-47fa-4ee4-9d0f-50778aac3ad4
+C:\Practicas\PracticasDSECompleto\Practica2Parte4.cydsn\Practica2Parte4.cyprj|927c56fa-542b-4835-b063-eb6c40c0c099
+C:\Practicas\PracticasDSECompleto\Practica2Parte5.cydsn\Practica2Parte5.cyprj|8d60cfd3-1168-4da4-a4e2-9556d556760c

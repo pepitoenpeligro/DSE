@@ -1,0 +1,10 @@
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica1Parte3.cydsn\Practica1Parte3.cyprj|39b722f1-2727-4281-9257-995b6b97c22d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|3f41fe3c-87ac-496e-99d0-287e198329b8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|35c5c463-f9f6-43d3-a831-53b32d7c2dbc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6c697051-c93d-446e-81fc-d4944017575e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0d2fa4d6-6a75-41ac-a3bc-a47e85860612
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica2Parte1y2.cydsn\Practica2Parte1y2.cyprj|eb09898a-97fa-402d-a802-825f8d86a51d
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica2Parte3.cydsn\Practica2Parte3.cyprj|1cdefb3d-64de-4eb9-ae1b-42d195c2f8cc
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica2Parte4.cydsn\Practica2Parte4.cyprj|2f0772c7-d521-4171-ac0c-12685e5d4f2c
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica2Parte5.cydsn\Practica2Parte5.cyprj|cf08b5dc-351f-4e14-a7ff-4413bf40dc23
+C:\Users\Cristina\Desktop\Electro_PSOC_DSE-master\PracticasDSECompleto\Practica4Parte1Voltimetro.cydsn\Practica4Parte1Voltimetro.cyprj|cb195eef-f69c-4151-b5af-966ed35aa2e0

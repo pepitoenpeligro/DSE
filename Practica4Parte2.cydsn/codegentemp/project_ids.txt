@@ -1,0 +1,12 @@
+C:\Practicas\PracticasDSECompleto\Practica2Parte5.cydsn\Practica2Parte5.cyprj|9708b35c-98b9-4a9f-a792-1af1240ba9b4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|80ff3d51-9399-477f-91ae-5a0e88a828f4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|044c2dc7-ed7f-4d1a-998f-142840295fce
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0b800cc2-eab4-431d-8a86-34059b75915f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ebd019e1-d734-4f88-89eb-900c1098d949
+C:\Practicas\PracticasDSECompleto\Practica4Parte1Voltimetro.cydsn\Practica4Parte1Voltimetro.cyprj|0d050325-b47b-4abf-841b-b9c5090f169f
+C:\Practicas\PracticasDSECompleto\Practica4Parte2.cydsn\Practica4Parte2.cyprj|6325505d-e7c1-46cd-8744-e6c98a0cbe57
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|e0710ca7-1ad6-4a31-b4b6-39eb0a1a0ad0
+C:\Practicas\PracticasDSECompleto\Practica2Parte4.cydsn\Practica2Parte4.cyprj|e2c453cd-fe3a-4aca-ac9b-6dde32965ee6
+C:\Practicas\PracticasDSECompleto\Practica2Parte3.cydsn\Practica2Parte3.cyprj|ba0cfaf7-8cf3-4ecb-828c-4c266cd573b0
+C:\Practicas\PracticasDSECompleto\Practica2Parte1y2.cydsn\Practica2Parte1y2.cyprj|5d3a0924-0707-4050-92ad-1f1a523d102a
+C:\Practicas\PracticasDSECompleto\Practica1Parte3.cydsn\Practica1Parte3.cyprj|5bed3805-83b1-4c66-8d70-276099ffcf05

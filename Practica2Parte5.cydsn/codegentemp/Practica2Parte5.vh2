@@ -1,0 +1,466 @@
+--
+--	Conversion of Practica2Parte5.v to vh2:
+--
+--	Cypress Semiconductor - WARP Version 6.3 IR 41
+--	Sat May 13 21:32:05 2017
+--
+
+USE cypress.cypress.all;
+USE cypress.rtlpkg.all;
+ENTITY top_RTL IS
+ATTRIBUTE part_name of top_RTL:TYPE IS "cpsoc3";
+END top_RTL;
+--------------------------------------------------------
+ARCHITECTURE R_T_L OF top_RTL IS
+SIGNAL \Control_Reg_NextStep:clk\ : bit;
+SIGNAL \Control_Reg_NextStep:rst\ : bit;
+SIGNAL Granjero : bit;
+SIGNAL \Control_Reg_NextStep:control_out_0\ : bit;
+SIGNAL Maiz : bit;
+SIGNAL \Control_Reg_NextStep:control_out_1\ : bit;
+SIGNAL Gallina : bit;
+SIGNAL \Control_Reg_NextStep:control_out_2\ : bit;
+SIGNAL Zorro : bit;
+SIGNAL \Control_Reg_NextStep:control_out_3\ : bit;
+SIGNAL Net_1 : bit;
+SIGNAL \Control_Reg_NextStep:control_out_4\ : bit;
+SIGNAL Net_2 : bit;
+SIGNAL \Control_Reg_NextStep:control_out_5\ : bit;
+SIGNAL Net_3 : bit;
+SIGNAL \Control_Reg_NextStep:control_out_6\ : bit;
+SIGNAL Net_4 : bit;
+SIGNAL \Control_Reg_NextStep:control_out_7\ : bit;
+SIGNAL \Control_Reg_NextStep:control_7\ : bit;
+SIGNAL \Control_Reg_NextStep:control_6\ : bit;
+SIGNAL \Control_Reg_NextStep:control_5\ : bit;
+SIGNAL \Control_Reg_NextStep:control_4\ : bit;
+SIGNAL \Control_Reg_NextStep:control_3\ : bit;
+SIGNAL \Control_Reg_NextStep:control_2\ : bit;
+SIGNAL \Control_Reg_NextStep:control_1\ : bit;
+SIGNAL \Control_Reg_NextStep:control_0\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_ins_3\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_ins_2\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_ins_1\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_ins_0\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_reg_3\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_reg_2\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_reg_1\ : bit;
+SIGNAL \LUT_Riddle:tmp__LUT_Riddle_reg_0\ : bit;
+SIGNAL step_3 : bit;
+SIGNAL step_2 : bit;
+SIGNAL step_1 : bit;
+SIGNAL step_0 : bit;
+SIGNAL \Control_Reg_Clock:clk\ : bit;
+SIGNAL \Control_Reg_Clock:rst\ : bit;
+SIGNAL clock : bit;
+SIGNAL \Control_Reg_Clock:control_out_0\ : bit;
+SIGNAL Net_13 : bit;
+SIGNAL \Control_Reg_Clock:control_out_1\ : bit;
+SIGNAL Net_14 : bit;
+SIGNAL \Control_Reg_Clock:control_out_2\ : bit;
+SIGNAL Net_15 : bit;
+SIGNAL \Control_Reg_Clock:control_out_3\ : bit;
+SIGNAL Net_16 : bit;
+SIGNAL \Control_Reg_Clock:control_out_4\ : bit;
+SIGNAL Net_17 : bit;
+SIGNAL \Control_Reg_Clock:control_out_5\ : bit;
+SIGNAL Net_18 : bit;
+SIGNAL \Control_Reg_Clock:control_out_6\ : bit;
+SIGNAL Net_19 : bit;
+SIGNAL \Control_Reg_Clock:control_out_7\ : bit;
+SIGNAL \Control_Reg_Clock:control_7\ : bit;
+SIGNAL \Control_Reg_Clock:control_6\ : bit;
+SIGNAL \Control_Reg_Clock:control_5\ : bit;
+SIGNAL \Control_Reg_Clock:control_4\ : bit;
+SIGNAL \Control_Reg_Clock:control_3\ : bit;
+SIGNAL \Control_Reg_Clock:control_2\ : bit;
+SIGNAL \Control_Reg_Clock:control_1\ : bit;
+SIGNAL \Control_Reg_Clock:control_0\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_0\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_1\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_2\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_3\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_4\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_5\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_6\ : bit;
+SIGNAL \Status_Reg_CurrentStep:status_7\ : bit;
+SIGNAL zero : bit;
+SIGNAL cydff_1 : bit;
+SIGNAL Net_206 : bit;
+SIGNAL cydff_2 : bit;
+SIGNAL Net_207 : bit;
+SIGNAL cydff_3 : bit;
+SIGNAL Net_208 : bit;
+SIGNAL cydff_4 : bit;
+SIGNAL Net_209 : bit;
+SIGNAL \Status_Reg_LastStep:status_0\ : bit;
+SIGNAL \Status_Reg_LastStep:status_1\ : bit;
+SIGNAL \Status_Reg_LastStep:status_2\ : bit;
+SIGNAL \Status_Reg_LastStep:status_3\ : bit;
+SIGNAL \Status_Reg_LastStep:status_4\ : bit;
+SIGNAL \Status_Reg_LastStep:status_5\ : bit;
+SIGNAL \Status_Reg_LastStep:status_6\ : bit;
+SIGNAL \Status_Reg_LastStep:status_7\ : bit;
+SIGNAL \Status_Reg_Error:status_0\ : bit;
+SIGNAL Net_230 : bit;
+SIGNAL \Status_Reg_Error:status_1\ : bit;
+SIGNAL Net_231 : bit;
+SIGNAL \Status_Reg_Error:status_2\ : bit;
+SIGNAL \Status_Reg_Error:status_3\ : bit;
+SIGNAL \Status_Reg_Error:status_4\ : bit;
+SIGNAL \Status_Reg_Error:status_5\ : bit;
+SIGNAL \Status_Reg_Error:status_6\ : bit;
+SIGNAL \Status_Reg_Error:status_7\ : bit;
+SIGNAL Net_258 : bit;
+SIGNAL Net_264 : bit;
+SIGNAL Net_263 : bit;
+SIGNAL Net_270 : bit;
+SIGNAL Net_267 : bit;
+SIGNAL Net_268 : bit;
+SIGNAL Net_285 : bit;
+SIGNAL Net_286 : bit;
+SIGNAL Net_278 : bit;
+SIGNAL Net_277 : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_6\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_5\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_4\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_3\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_2\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_1\ : bit;
+SIGNAL \pantallaLCD:tmpOE__LCDPort_net_0\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_6\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_5\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_4\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_3\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_2\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_1\ : bit;
+SIGNAL \pantallaLCD:tmpFB_6__LCDPort_net_0\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_6\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_5\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_4\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_3\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_2\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_1\ : bit;
+SIGNAL \pantallaLCD:tmpIO_6__LCDPort_net_0\ : bit;
+TERMINAL \pantallaLCD:tmpSIOVREF__LCDPort_net_0\ : bit;
+SIGNAL one : bit;
+SIGNAL \pantallaLCD:tmpINTERRUPT_0__LCDPort_net_0\ : bit;
+SIGNAL tmpOE__nex_net_0 : bit;
+SIGNAL tmpFB_0__nex_net_0 : bit;
+SIGNAL tmpIO_0__nex_net_0 : bit;
+TERMINAL tmpSIOVREF__nex_net_0 : bit;
+SIGNAL tmpINTERRUPT_0__nex_net_0 : bit;
+SIGNAL tmpOE__cross_net_0 : bit;
+SIGNAL tmpFB_0__cross_net_0 : bit;
+SIGNAL tmpIO_0__cross_net_0 : bit;
+TERMINAL tmpSIOVREF__cross_net_0 : bit;
+SIGNAL tmpINTERRUPT_0__cross_net_0 : bit;
+SIGNAL cydff_1D : bit;
+SIGNAL cydff_2D : bit;
+SIGNAL cydff_3D : bit;
+SIGNAL cydff_4D : bit;
+BEGIN
+
+step_3 <= ((not Gallina and not Zorro and Granjero)
+	OR (not Granjero and Maiz and Gallina)
+	OR (not Maiz and Zorro));
+
+step_2 <= ((not Granjero and Maiz)
+	OR (not Gallina and Granjero)
+	OR Zorro);
+
+step_1 <= ((not Maiz and Zorro)
+	OR (Maiz and Gallina)
+	OR (not Gallina and not Zorro and Granjero)
+	OR (not Granjero and Gallina)
+	OR (not Granjero and Zorro));
+
+step_0 <= ((not Maiz and Zorro)
+	OR (Maiz and Gallina)
+	OR Granjero);
+
+zero <=  ('0') ;
+
+Net_230 <= ((not Maiz and not Gallina and Granjero)
+	OR (not Granjero and Maiz and Gallina));
+
+Net_231 <= ((not Gallina and not Zorro and Granjero)
+	OR (not Granjero and Gallina and Zorro));
+
+one <=  ('1') ;
+
+\Control_Reg_NextStep:Sync:ctrl_reg\:cy_psoc3_control
+	GENERIC MAP(cy_init_value=>"00000000",
+		cy_force_order=>'1',
+		cy_ctrl_mode_1=>"00000000",
+		cy_ctrl_mode_0=>"00000000",
+		cy_ext_reset=>'0')
+	PORT MAP(reset=>zero,
+		clock=>zero,
+		control=>(\Control_Reg_NextStep:control_7\, \Control_Reg_NextStep:control_6\, \Control_Reg_NextStep:control_5\, \Control_Reg_NextStep:control_4\,
+			Zorro, Gallina, Maiz, Granjero));
+\Control_Reg_Clock:Sync:ctrl_reg\:cy_psoc3_control
+	GENERIC MAP(cy_init_value=>"00000000",
+		cy_force_order=>'1',
+		cy_ctrl_mode_1=>"00000000",
+		cy_ctrl_mode_0=>"00000000",
+		cy_ext_reset=>'0')
+	PORT MAP(reset=>zero,
+		clock=>zero,
+		control=>(\Control_Reg_Clock:control_7\, \Control_Reg_Clock:control_6\, \Control_Reg_Clock:control_5\, \Control_Reg_Clock:control_4\,
+			\Control_Reg_Clock:control_3\, \Control_Reg_Clock:control_2\, \Control_Reg_Clock:control_1\, clock));
+\Status_Reg_CurrentStep:sts:sts_reg\:cy_psoc3_status
+	GENERIC MAP(cy_force_order=>'1',
+		cy_md_select=>"00000000")
+	PORT MAP(reset=>zero,
+		clock=>clock,
+		status=>(zero, zero, zero, zero,
+			step_3, step_2, step_1, step_0));
+\Status_Reg_LastStep:sts:sts_reg\:cy_psoc3_status
+	GENERIC MAP(cy_force_order=>'1',
+		cy_md_select=>"00000000")
+	PORT MAP(reset=>zero,
+		clock=>clock,
+		status=>(zero, zero, zero, zero,
+			cydff_4, cydff_3, cydff_2, cydff_1));
+\Status_Reg_Error:sts:sts_reg\:cy_psoc3_status
+	GENERIC MAP(cy_force_order=>'1',
+		cy_md_select=>"00000000")
+	PORT MAP(reset=>zero,
+		clock=>clock,
+		status=>(zero, zero, zero, zero,
+			zero, zero, Net_231, Net_230));
+\pantallaLCD:LCDPort\:cy_psoc3_pins_v1_10
+	GENERIC MAP(id=>"94153dfb-7545-4aa6-9c8b-9b7dc1f0e996/ed092b9b-d398-4703-be89-cebf998501f6",
+		drive_mode=>"110110110110110110110",
+		ibuf_enabled=>"1111111",
+		init_dr_st=>"0000000",
+		input_sync=>"1111111",
+		input_clk_en=>'0',
+		input_sync_mode=>"0000000",
+		intr_mode=>"00000000000000",
+		invert_in_clock=>'0',
+		invert_in_clock_en=>'0',
+		invert_in_reset=>'0',
+		invert_out_clock=>'0',
+		invert_out_clock_en=>'0',
+		invert_out_reset=>'0',
+		io_voltage=>",,,,,,",
+		layout_mode=>"CONTIGUOUS",
+		output_conn=>"0000000",
+		output_sync=>"0000000",
+		output_clk_en=>'0',
+		output_mode=>"0000000",
+		output_reset=>'0',
+		output_clock_mode=>"0000000",
+		oe_sync=>"0000000",
+		oe_conn=>"0000000",
+		oe_reset=>'0',
+		pin_aliases=>",,,,,,",
+		pin_mode=>"OOOOOOO",
+		por_state=>4,
+		sio_group_cnt=>0,
+		sio_hifreq=>"00000000",
+		sio_hyst=>"1111111",
+		sio_ibuf=>"00000000",
+		sio_info=>"00000000000000",
+		sio_obuf=>"00000000",
+		sio_refsel=>"00000000",
+		sio_vtrip=>"00000000",
+		sio_vohsel=>"00000000",
+		slew_rate=>"0000000",
+		spanning=>'0',
+		sw_only=>'0',
+		vtrip=>"10101010101010",
+		width=>7,
+		port_alias_required=>'0',
+		port_alias_group=>"",
+		use_annotation=>"0000000",
+		pa_in_clock=>-1,
+		pa_in_clock_en=>-1,
+		pa_in_reset=>-1,
+		pa_out_clock=>-1,
+		pa_out_clock_en=>-1,
+		pa_out_reset=>-1,
+		ovt_needed=>"0000000",
+		ovt_slew_control=>"00000000000000",
+		ovt_hyst_trim=>"0000000",
+		input_buffer_sel=>"00000000000000")
+	PORT MAP(oe=>(one, one, one, one,
+			one, one, one),
+		y=>(zero, zero, zero, zero,
+			zero, zero, zero),
+		fb=>(\pantallaLCD:tmpFB_6__LCDPort_net_6\, \pantallaLCD:tmpFB_6__LCDPort_net_5\, \pantallaLCD:tmpFB_6__LCDPort_net_4\, \pantallaLCD:tmpFB_6__LCDPort_net_3\,
+			\pantallaLCD:tmpFB_6__LCDPort_net_2\, \pantallaLCD:tmpFB_6__LCDPort_net_1\, \pantallaLCD:tmpFB_6__LCDPort_net_0\),
+		analog=>(open, open, open, open,
+			open, open, open),
+		io=>(\pantallaLCD:tmpIO_6__LCDPort_net_6\, \pantallaLCD:tmpIO_6__LCDPort_net_5\, \pantallaLCD:tmpIO_6__LCDPort_net_4\, \pantallaLCD:tmpIO_6__LCDPort_net_3\,
+			\pantallaLCD:tmpIO_6__LCDPort_net_2\, \pantallaLCD:tmpIO_6__LCDPort_net_1\, \pantallaLCD:tmpIO_6__LCDPort_net_0\),
+		siovref=>(\pantallaLCD:tmpSIOVREF__LCDPort_net_0\),
+		annotation=>(open, open, open, open,
+			open, open, open),
+		in_clock=>zero,
+		in_clock_en=>one,
+		in_reset=>zero,
+		out_clock=>zero,
+		out_clock_en=>one,
+		out_reset=>zero,
+		interrupt=>\pantallaLCD:tmpINTERRUPT_0__LCDPort_net_0\);
+nex:cy_psoc3_pins_v1_10
+	GENERIC MAP(id=>"8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba",
+		drive_mode=>"010",
+		ibuf_enabled=>"1",
+		init_dr_st=>"1",
+		input_sync=>"0",
+		input_clk_en=>'0',
+		input_sync_mode=>"0",
+		intr_mode=>"00",
+		invert_in_clock=>'0',
+		invert_in_clock_en=>'0',
+		invert_in_reset=>'0',
+		invert_out_clock=>'0',
+		invert_out_clock_en=>'0',
+		invert_out_reset=>'0',
+		io_voltage=>"",
+		layout_mode=>"CONTIGUOUS",
+		output_conn=>"0",
+		output_sync=>"0",
+		output_clk_en=>'0',
+		output_mode=>"0",
+		output_reset=>'0',
+		output_clock_mode=>"0",
+		oe_sync=>"0",
+		oe_conn=>"0",
+		oe_reset=>'0',
+		pin_aliases=>"",
+		pin_mode=>"I",
+		por_state=>4,
+		sio_group_cnt=>0,
+		sio_hifreq=>"00000000",
+		sio_hyst=>"1",
+		sio_ibuf=>"00000000",
+		sio_info=>"00",
+		sio_obuf=>"00000000",
+		sio_refsel=>"00000000",
+		sio_vtrip=>"00000000",
+		sio_vohsel=>"00000000",
+		slew_rate=>"0",
+		spanning=>'0',
+		sw_only=>'0',
+		vtrip=>"00",
+		width=>1,
+		port_alias_required=>'0',
+		port_alias_group=>"",
+		use_annotation=>"0",
+		pa_in_clock=>-1,
+		pa_in_clock_en=>-1,
+		pa_in_reset=>-1,
+		pa_out_clock=>-1,
+		pa_out_clock_en=>-1,
+		pa_out_reset=>-1,
+		ovt_needed=>"0",
+		ovt_slew_control=>"00",
+		ovt_hyst_trim=>"0",
+		input_buffer_sel=>"00")
+	PORT MAP(oe=>(one),
+		y=>(zero),
+		fb=>(tmpFB_0__nex_net_0),
+		analog=>(open),
+		io=>(tmpIO_0__nex_net_0),
+		siovref=>(tmpSIOVREF__nex_net_0),
+		annotation=>(open),
+		in_clock=>zero,
+		in_clock_en=>one,
+		in_reset=>zero,
+		out_clock=>zero,
+		out_clock_en=>one,
+		out_reset=>zero,
+		interrupt=>tmpINTERRUPT_0__nex_net_0);
+cross:cy_psoc3_pins_v1_10
+	GENERIC MAP(id=>"62603ec7-298a-4899-9a13-ee7bf315c9dc",
+		drive_mode=>"010",
+		ibuf_enabled=>"1",
+		init_dr_st=>"1",
+		input_sync=>"0",
+		input_clk_en=>'0',
+		input_sync_mode=>"0",
+		intr_mode=>"00",
+		invert_in_clock=>'0',
+		invert_in_clock_en=>'0',
+		invert_in_reset=>'0',
+		invert_out_clock=>'0',
+		invert_out_clock_en=>'0',
+		invert_out_reset=>'0',
+		io_voltage=>"",
+		layout_mode=>"CONTIGUOUS",
+		output_conn=>"0",
+		output_sync=>"0",
+		output_clk_en=>'0',
+		output_mode=>"0",
+		output_reset=>'0',
+		output_clock_mode=>"0",
+		oe_sync=>"0",
+		oe_conn=>"0",
+		oe_reset=>'0',
+		pin_aliases=>"",
+		pin_mode=>"I",
+		por_state=>4,
+		sio_group_cnt=>0,
+		sio_hifreq=>"00000000",
+		sio_hyst=>"1",
+		sio_ibuf=>"00000000",
+		sio_info=>"00",
+		sio_obuf=>"00000000",
+		sio_refsel=>"00000000",
+		sio_vtrip=>"00000000",
+		sio_vohsel=>"00000000",
+		slew_rate=>"0",
+		spanning=>'0',
+		sw_only=>'0',
+		vtrip=>"00",
+		width=>1,
+		port_alias_required=>'0',
+		port_alias_group=>"",
+		use_annotation=>"0",
+		pa_in_clock=>-1,
+		pa_in_clock_en=>-1,
+		pa_in_reset=>-1,
+		pa_out_clock=>-1,
+		pa_out_clock_en=>-1,
+		pa_out_reset=>-1,
+		ovt_needed=>"0",
+		ovt_slew_control=>"00",
+		ovt_hyst_trim=>"0",
+		input_buffer_sel=>"00")
+	PORT MAP(oe=>(one),
+		y=>(zero),
+		fb=>(tmpFB_0__cross_net_0),
+		analog=>(open),
+		io=>(tmpIO_0__cross_net_0),
+		siovref=>(tmpSIOVREF__cross_net_0),
+		annotation=>(open),
+		in_clock=>zero,
+		in_clock_en=>one,
+		in_reset=>zero,
+		out_clock=>zero,
+		out_clock_en=>one,
+		out_reset=>zero,
+		interrupt=>tmpINTERRUPT_0__cross_net_0);
+cydff_1:cy_dff
+	PORT MAP(d=>step_0,
+		clk=>clock,
+		q=>cydff_1);
+cydff_2:cy_dff
+	PORT MAP(d=>step_1,
+		clk=>clock,
+		q=>cydff_2);
+cydff_3:cy_dff
+	PORT MAP(d=>step_2,
+		clk=>clock,
+		q=>cydff_3);
+cydff_4:cy_dff
+	PORT MAP(d=>step_3,
+		clk=>clock,
+		q=>cydff_4);
+
+END R_T_L;
